@@ -1,0 +1,22 @@
+{
+  "name": "add-dashes-to-uuid",
+  "version": "1.0.0",
+  "description": "Converts a UUID string to a UUID string with dashes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmyrs/add-dashes-to-uuid.git"
+  },
+  "keywords": [
+    "uuid"
+  ],
+  "author": "Tim \"timmyRS\" Speckhals",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timmyrs/add-dashes-to-uuid/issues"
+  },
+  "homepage": "https://github.com/timmyrs/add-dashes-to-uuid#readme"
+}
